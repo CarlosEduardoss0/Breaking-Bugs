@@ -14,3 +14,17 @@ apenas um aplicativo antigo da empresa continuava online, piscando uma mensagem:
 
 Godofredo sentiu um frio na espinha. O aplicativo em questão era um sistema legado que ninguém tocava há anos, tão antigo que ninguém lembrava quem o havia
 desenvolvido. Reabria sozinha, cada vez com a mensagem mais brilhante, como se gritasse dentro da tela.
+
+Parte 3 - O sistema esquecido
+Godofredo abriu o editor de código para começar corrigir o bug. O sistema era tão antigo que nem o VS Code reconhecia, então ele fez algo ousado, abriu direto no Bloco de notas.
+As primeiras linhas pareciam normais, mas logo começaram as bizarrices: comentários escritos em latim, funções com nomes como sacrificium_hamster() e uma variável chamada bugFinalBoss.
+Tinha palavras em inglês, português, espanhol, mandarim, latim, grego e em outros idiomas que pareciam ter sido inventados por programadores entediados durante uma sexta-feira à noite,
+reza a lenda que vários programadores de diferentes nacionalidades construiram o sistema, foi tipo a torre de Babel.
+Godofredo respirou fundo e disse para si mesmo:
+- Tá tranquilo, é só um código legado, não precisa ter medo.
+E naquele momento, percebeu que tinha acabado de falar a frase equivalente a "vou só ver o que é esse barulho no porão da minha casa as 3 da manhã" em um filme de terror.
+Decidiu rodar o projeto. A tela piscou e apareceu apenas uma linha:
+"Você não deveria ter feito isso."
+O coração dele disparou. e ele pensou:
+- Beleza, daqui a pouco aparece o Freddy Krueger oerecendo estágio não remunerado.
+Godofredo fechou seu laptop e sabia que precisava de reforços.
