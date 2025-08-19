@@ -5,3 +5,12 @@ Na manhã de uma segunda-feira, Godofredo acordava em sua tediosa rotina de todo
 Enquanto preparava seu café, pensava na saudade que sentia daquela época onde todos os seus problemas eram menores, quando não sabia da existência de tantas linguagens diferentes de programção,
 quando não sabia o que era realizar reuniões com clientes que dedicam seus dias para achar mais e mais problemas... Mal sabia ele que essa manhã não seria tão tediosa quanto todas as outras...
 ele teria apenas mais 40 minutos de paz.
+
+Parte 2 - A falha que parou o mundo
+Exatamente 40 minutos depois, quando Godofredo abria o navegador para começar seu trabalho, internet mundial caiu. Nenhum site funcionava, nenhuma mensagem passava. Mas curiosamente,
+apenas um aplicativo antigo da empresa continuava online, piscando uma mensagem: 
+
+“Vocês têm 24 horas para corrigir o bug”.
+
+Godofredo sentiu um frio na espinha. O aplicativo em questão era um sistema legado que ninguém tocava há anos, tão antigo que ninguém lembrava quem o havia
+desenvolvido. Reabria sozinha, cada vez com a mensagem mais brilhante, como se gritasse dentro da tela.
