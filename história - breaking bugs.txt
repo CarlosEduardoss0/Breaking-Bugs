@@ -21,6 +21,7 @@ As primeiras linhas pareciam normais, mas logo começaram as bizarrices: coment�
 Tinha palavras em inglês, português, espanhol, mandarim, latim, grego e em outros idiomas que pareciam ter sido inventados por programadores entediados durante uma sexta-feira à noite,
 reza a lenda que vários programadores de diferentes nacionalidades construiram o sistema, foi tipo a torre de Babel.
 Godofredo respirou fundo e disse para si mesmo:
+
 - Tá tranquilo, é só um código legado, não precisa ter medo.
 E naquele momento, percebeu que tinha acabado de falar a frase equivalente a "vou só ver o que é esse barulho no porão da minha casa as 3 da manhã" em um filme de terror.
 Decidiu rodar o projeto. A tela piscou e apareceu apenas uma linha:
@@ -28,3 +29,92 @@ Decidiu rodar o projeto. A tela piscou e apareceu apenas uma linha:
 O coração dele disparou. e ele pensou:
 - Beleza, daqui a pouco aparece o Freddy Krueger oerecendo estágio não remunerado.
 Godofredo fechou seu laptop e sabia que precisava de reforços.
+
+Parte 4 - O fim?
+As ruas estavam caoticas, pessoas desesperadas afirmando ser o fim dos tempos, outras correndo com o maximo de suplimentos que podiam carregar. O sumisso da enternet mundial sem nenhuma explicação, destruiu a tranquilidade do mundo "moderno", em meio ao caos das ruas, um homem passava despercebido com uma pressa no caminhar e um rosto decidido, em buscar de uma coisa, ou alguem...
+
+- Ding Dong
+- Ding Dong
+- Ding Dong
+
+- Ja to indo, para de aperta esse negocio!!!
+
+Ao ouvir o grito do outro lado da porta, Godofredo tirou o dedo da campainha, ele se perguntava se foi uma boa ideia ter ido ate aquela casa, mas ao lenbrar do problema que estava carregando no notbook embaixo do breço esquerdo, ele precisava de auguem para ajudalo com o sistema esquecido, e a unica pessoa que vei a sua mente foi ele.
+
+- oi Fred... a quanto tempo?
+- é vc Godofredo... o que você esta fazendo aqui? 
+- Preciso de sua ajuda Fred 
+- Agora você precisa né?! Guando prcisei de apoio na empresa você me deixou de lado. E agora que aparentemente o mundo ta acabamdo você vem me procurar! 
+- Descupa, você sabia que eu precisava do emprego na epoca... 
+- ahhh... sim eu sabia, como vai sua mãe Godofredo? 
+- Ela esta saldavel, bem melhor do que antes. 
+- Pois bem, o que eu posso ajudar o encrivel Godofredo? 
+- Presiso da sua ajuda com um sistema! 
+- Você precisa de ajuda com um sistema, logo quando o mundo enteiro esta sem enternete? Você esta bem da cabeça? 
+- Bem... eu sei que parece estranho, mas eu acredito q esse sistema esteja ligado com a queda da enternete em todo o mundo. Ele apareceu do nada no meu notbook, com varias linguas que eu nunca parei para entender.
+
+Fred ficou em silêncio por alguns segundos, olhando fixamente para o notebook de Godofredo como se reconhecesse aquele peso.
+
+- Esse sistema... — disse ele com a voz baixa — não é apenas código. É uma maldição.
+- Como assim maldição?! — Godofredo se arrepiou.
+- Quando a empresa ainda estava de pé, tentamos criar um sistema que nunca quebrasse. Chamamos de “Projeto Babel”. O problema é que, ao tentar misturar tantas linguagens e arquiteturas, criamos algo... vivo.
+
+Godofredo engoliu seco.
+
+- Vivo?
+- Sim, Godo. Esse bug que você viu... não é um erro. É uma mensagem. Uma porta aberta.
+- Porta pra quê?
+- Pra coisa nenhuma boa.
+
+O silêncio entre eles foi quebrado apenas pelo barulho do notebook, que ligou sozinho. A tela mostrava agora um cronômetro:
+
+“23:41:07 restantes.”
+
+Fred respirou fundo e completou:
+
+- Se quisermos salvar a internet — e talvez o mundo inteiro — vamos ter que voltar para onde tudo começou.
+
+Já no Antigo predio da empresa, Fred fechou a porta atrás de si e caminhou até a mesa. Abriu o notebook de Godofredo como quem abre um livro proibido. O cronômetro seguia diminuindo, cada segundo pulsando como um coração nervoso.
+
+- Godo, escuta. Só exiti uma forma de resolver isso. precisamos rodar o sistema no modo "debug supremo".
+- "Debug supremo"? Mas isso... não existe!
+- Exato. E ainda assim, todo programador ja sonhou com ele pelo menos uma vez.
+
+Com algumas teclas rápidas, Fred digitou comandos que Godofredo nunca tinha visto. O sistema reagiu, e a tela se transformou numa espécie de arena digital: colunas de código se erguiam como prédios, variáveis voavam como corvos e, no centro, surgiu ele.
+
+A variável mais temida de todas:
+bugFinalBoss.
+
+Um ser formado por fragmentos de sintaxes, partes em Java, trechos em COBOL, funções perdidas em Assembly e até linhas de PHP que brilhavam em vermelho. Ele rugiu:
+
+printf("VOCÊS NÃO PODEM ME CORRIGIR");
+
+Godofredo quase caiu da cadeira.
+
+- Fred, o que a gente faz?!
+- Simples. Fazemos o que qualquer programador faria... damos um Ctrl+C e depois Ctrl+V de uma solução do Stack Overflow.
+
+Ambos riram nervosos, mas Fred já digitava furiosamente. O tempo corria. Godofredo percebeu que, apesar de todo medo, estava sorrindo também. Era como se aquela insanidade fosse o lugar onde ele realmente pertencia.
+
+De repente, Fred deu o comando final:
+
+if (esperança && coragem) {
+    internet.status = "online";
+    bugFinalBoss = null;
+}
+
+A criatura gritou como mil servidores caindo ao mesmo tempo e se desfez em linhas de código quebradas. O cronômetro zerou.
+A tela piscou e, em seguida, uma mensagem simples apareceu:
+
+“Sistema corrigido. A internet foi restaurada.”
+
+Do lado de fora, fogos de artifício começaram a surgir. As pessoas gritavam de alegria ao ver seus celulares funcionando novamente, postando fotos, memes e reclamações como se nada tivesse acontecido.
+
+Godofredo fechou o notebook, olhou para Fred e disse:
+
+- No fim das contas, a internet quase acabou por causa de um bug.
+- Não, Godo. A internet quase acabou porque alguém um dia achou que misturar COBOL com PHP era uma boa ideia.
+
+Ambos riram. Pela primeira vez em muito tempo, Godofredo sentiu que não estava mais sozinho.
+
+E assim terminou a batalha contra o Bug Final Boss. Pelo menos... até a próxima atualização de sistema.
