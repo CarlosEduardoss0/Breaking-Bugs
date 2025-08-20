@@ -78,3 +78,51 @@ Fred respirou fundo e completou:
 
 - Se quisermos salvar a internet — e talvez o mundo inteiro — vamos ter que voltar para onde tudo começou.
 
+Já no Antigo predio da empresa, Fred fechou a porta atrás de si e caminhou até a mesa. Abriu o notebook de Godofredo como quem abre um livro proibido. O cronômetro seguia diminuindo, cada segundo pulsando como um coração nervoso.
+
+- Godo, escuta. Só exiti uma forma de resolver isso. precisamos rodar o sistema no modo "debug supremo".
+- "Debug supremo"? Mas isso... não existe!
+- Exato. E ainda assim, todo programador ja sonhou com ele pelo menos uma vez.
+
+Com algumas teclas rápidas, Fred digitou comandos que Godofredo nunca tinha visto. O sistema reagiu, e a tela se transformou numa espécie de arena digital: colunas de código se erguiam como prédios, variáveis voavam como corvos e, no centro, surgiu ele.
+
+A variável mais temida de todas:
+bugFinalBoss.
+
+Um ser formado por fragmentos de sintaxes, partes em Java, trechos em COBOL, funções perdidas em Assembly e até linhas de PHP que brilhavam em vermelho. Ele rugiu:
+
+printf("VOCÊS NÃO PODEM ME CORRIGIR");
+
+Godofredo quase caiu da cadeira.
+
+- Fred, o que a gente faz?!
+- Simples. Fazemos o que qualquer programador faria... damos um Ctrl+C e depois Ctrl+V de uma solução do Stack Overflow.
+
+Ambos riram nervosos, mas Fred já digitava furiosamente. O tempo corria. Godofredo percebeu que, apesar de todo medo, estava sorrindo também. Era como se aquela insanidade fosse o lugar onde ele realmente pertencia.
+
+De repente, Fred deu o comando final:
+
+if (esperança && coragem) {
+    internet.status = "online";
+    bugFinalBoss = null;
+}
+
+A criatura gritou como mil servidores caindo ao mesmo tempo e se desfez em linhas de código quebradas. O cronômetro zerou.
+A tela piscou e, em seguida, uma mensagem simples apareceu:
+
+“Sistema corrigido. A internet foi restaurada.”
+
+Do lado de fora, fogos de artifício começaram a surgir. As pessoas gritavam de alegria ao ver seus celulares funcionando novamente, postando fotos, memes e reclamações como se nada tivesse acontecido.
+
+Godofredo fechou o notebook, olhou para Fred e disse:
+
+- No fim das contas, a internet quase acabou por causa de um bug.
+- Não, Godo. A internet quase acabou porque alguém um dia achou que misturar COBOL com PHP era uma boa ideia.
+
+Ambos riram. Pela primeira vez em muito tempo, Godofredo sentiu que não estava mais sozinho.
+
+E assim terminou a batalha contra o Bug Final Boss. Pelo menos... até a próxima atualização de sistema.
+
+
+
+
